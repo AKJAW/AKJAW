@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hello, I'm Aleks</h2>
+  <h3>I am a Blogger, Android developer and Kotlin enthusiast</h3>
+</div>
 
-<!--
-**AKJAW/AKJAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Currently I'm working on [Timi Compose](https://github.com/AKJAW/Timi-Compose) which is a rewrite of my first Android application [Timi](https://akjaw.com/portfolio/).
 
-Here are some ideas to get you started:
+✅ I've also "completed" a Kotlin Multiplatform project [Fuller Stack](https://github.com/AKJAW/fuller-stack-kotlin-multiplatform) which consists of an Android app, Kotlin React.JS app and a Ktor server. Please keep in mind that this project was created for my master thesis so it is not a complete and bug-free project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 If you're interested in some Android/Kotlin related blog posts, here are some of my more popular posts:
+- [Building a Kotlin Multiplatform Mobile Proof of Concept Conclusions](https://akjaw.com/kotlin-multiplatform-mobile-poc-conclusions/)
+- [Implementing a Stopwatch with Kotlin Coroutines and Flow Part 1 - a Single Stopwatch](https://akjaw.com/kotlin-coroutine-flow-stopwatch-part1/)
+- [17 IntelliJ IDEA/Android Studio shortcuts and features for a faster development cycle](https://akjaw.com/17-intellij-ide-features-for-faster-development/)
+
+🐦 If you want to reach me, you can send me a message on [Twitter](https://twitter.com/akjaw1)
