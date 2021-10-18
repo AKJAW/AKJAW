@@ -9,7 +9,12 @@
 
 📖 If you're interested in some Android/Kotlin related blog posts, here are some of my more popular posts:
 - [Building a Kotlin Multiplatform Mobile Proof of Concept Conclusions](https://akjaw.com/kotlin-multiplatform-mobile-poc-conclusions/)
+- [Modularizing a Kotlin Multiplatform Mobile Project](https://akjaw.com/modularizing-a-kotlin-multiplatform-mobile-project/)
+- [Kotlin Multiplatform for Android and The Web article series](https://akjaw.com/kotlin-multiplatform-for-android-and-the-web-part-1/)
 - [Implementing a Stopwatch with Kotlin Coroutines and Flow Part 1 - a Single Stopwatch](https://akjaw.com/kotlin-coroutine-flow-stopwatch-part1/)
 - [17 IntelliJ IDEA/Android Studio shortcuts and features for a faster development cycle](https://akjaw.com/17-intellij-ide-features-for-faster-development/)
 
-🐦 If you want to reach me, you can send me a message on [Twitter](https://twitter.com/akjaw1)
+If you want to reach me:
+- you can send me a message on [Twitter](https://twitter.com/akjaw1) 🐦
+- fill out a contact form on my [Blog](https://akjaw.com/contact-me/) 📖
+- or send me an email at [Aleksander Jaworski](mailto:contact@akjaw.com) 📧
