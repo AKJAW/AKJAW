@@ -9,9 +9,12 @@
 
 📖 If you're interested in some Android/Kotlin related blog posts, here are some of my more popular posts:
 - [Building a Kotlin Multiplatform Mobile Proof of Concept Conclusions](https://akjaw.com/kotlin-multiplatform-mobile-poc-conclusions/)
-- [Modularizing a Kotlin Multiplatform Mobile Project](https://akjaw.com/modularizing-a-kotlin-multiplatform-mobile-project/)
-- [Kotlin Multiplatform for Android and The Web article series](https://akjaw.com/kotlin-multiplatform-for-android-and-the-web-part-1/)
-- [Implementing a Stopwatch with Kotlin Coroutines and Flow Part 1 - a Single Stopwatch](https://akjaw.com/kotlin-coroutine-flow-stopwatch-part1/)
+- [Modularizing a Kotlin Multiplatform Mobile Project](https://akjaw.com/modularizing-a-kotlin-multiplatform-mobile-project/) - [**Repository**](https://github.com/AKJAW/KMM-Modularization)
+- [Testing on Kotlin Multiplatform Mobile and a Strategy to Speed Up Development Time](https://akjaw.com/testing-on-kotlin-multiplatform-and-strategy-to-speed-up-development/)
+- [Kotlin Multiplatform Parameterized Tests and Grouping Using The Standard Kotlin Testing Framework](https://akjaw.com/kotlin-multiplatform-parameterized-tests-and-grouping/)
+- [Writing UI Tests for Pager Layouts in Jetpack Compose](https://akjaw.com/wiriting-ui-tests-for-pager-layouts-jetpack-compose/) - [**Repository**](https://github.com/AKJAW/testing-compose-pager)
+- [Kotlin Multiplatform for Android and The Web article series](https://akjaw.com/kotlin-multiplatform-for-android-and-the-web-part-1/) - [**Repository**](https://github.com/AKJAW/fuller-stack-kotlin-multiplatform)
+- [Implementing a Stopwatch with Kotlin Coroutines and Flow Part 1 - a Single Stopwatch](https://akjaw.com/kotlin-coroutine-flow-stopwatch-part1/) - [**Repository**](https://github.com/AKJAW/Timi-Multiplatform/tree/stopwatch-article-part2)
 - [17 IntelliJ IDEA/Android Studio shortcuts and features for a faster development cycle](https://akjaw.com/17-intellij-ide-features-for-faster-development/)
 
 If you want to reach me:
