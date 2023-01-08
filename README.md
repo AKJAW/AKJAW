@@ -3,7 +3,7 @@
   <h3>I am a Blogger, Android developer and Kotlin enthusiast</h3>
 </div>
 
-🖥️ Currently I'm working on [Timi Compose](https://github.com/AKJAW/Timi-Compose) which is a rewrite of my first Android application [Timi](https://akjaw.com/portfolio/).
+🖥️ Currently I'm working on [Timi Mulitplatform](https://github.com/AKJAW/Timi-Multiplatform) which is a rewrite of my first Android application [Timi](https://akjaw.com/portfolio/).
 
 ✅ I've also "completed" a Kotlin Multiplatform project [Fuller Stack](https://github.com/AKJAW/fuller-stack-kotlin-multiplatform) which consists of an Android app, Kotlin React.JS app and a Ktor server. Please keep in mind that this project was created for my master thesis so it is not a complete and bug-free project.
 
