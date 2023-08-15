@@ -21,3 +21,7 @@ If you want to reach me:
 - you can send me a message on [Twitter](https://twitter.com/akjaw1) 🐦
 - fill out a contact form on my [Blog](https://akjaw.com/contact-me/) 📖
 - or send me an email at [Aleksander Jaworski](mailto:contact@akjaw.com) 📧
+
+And if you'd like to support me:
+
+<a href='https://ko-fi.com/F1F7O5GIL' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
